@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/.eslintrc.json **/*.js",
+    "test": "jasmine JASMINE_CONFIG_PATH=\"${CYBER_DOJO_SANDBOX}/jasmine.json\""
+  }
+}

@@ -1,10 +1,5 @@
 
-readonly MY_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ln -s /etc/jasmine/node_modules ${CYBER_DOJO_SANDBOX}/node_modules
 
-if [ -f .jshintrc ]; then
-  jshint --config .jshintrc *.js
-fi
-
-if [ $? == 0 ]; then
-  jasmine JASMINE_CONFIG_PATH="${MY_DIR}/jasmine.json"
-fi
+npm run lint
+npm run test

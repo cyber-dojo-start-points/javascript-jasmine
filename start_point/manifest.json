@@ -1,12 +1,13 @@
 {
   "display_name": "Javascript, jasmine",
-  "image_name": "cyberdojofoundation/javascript_node_jasmine:e1afd34",
+  "image_name": "cyberdojofoundation/javascript_node_jasmine:9840ec2",
   "visible_filenames": [
     "hiker-spec.js",
     "hiker.js",
     "cyber-dojo.sh",
-    ".jshintrc",
-    "jasmine.json"
+    ".eslintrc.json",
+    "jasmine.json",
+    "package.json"
   ],
   "filename_extension": [
     ".js"
