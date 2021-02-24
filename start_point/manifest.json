@@ -1,5 +1,5 @@
 {
-  "display_name": "Javascript, jasmine",
+  "display_name": "JavaScript, jasmine",
   "image_name": "cyberdojofoundation/javascript_node_jasmine:5c2ab7f",
   "visible_filenames": [
     "hiker-spec.js",
