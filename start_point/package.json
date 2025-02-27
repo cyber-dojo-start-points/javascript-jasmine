@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/.eslintrc.json /**/*.js",
+    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js",
     "test": "nyc jasmine JASMINE_CONFIG_PATH=\"${CYBER_DOJO_SANDBOX}/jasmine.json\""
   },
   "nyc": {
     "reporter": [ "text" ]
-  }
+  },
+  "type": "module"
 }

@@ -5,7 +5,7 @@
     "hiker-spec.js",
     "hiker.js",
     "cyber-dojo.sh",
-    ".eslintrc.json",
+    "eslint.config.js",
     "jasmine.json",
     "package.json"
   ],
