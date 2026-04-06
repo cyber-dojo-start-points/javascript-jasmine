@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript 23.7, Jasmine 5.6",
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jasmine:fd66a23",
+  "display_name": "JavaScript 25.8, Jasmine 6.1.0",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jasmine:8c1dd0c",
   "visible_filenames": [
     "hiker-spec.js",
     "hiker.js",
@@ -9,6 +9,7 @@
     "jasmine.json",
     "package.json"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".js"
   ],
