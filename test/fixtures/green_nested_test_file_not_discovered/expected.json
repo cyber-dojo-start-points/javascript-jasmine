@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 40,
+  "match_counts": {
+    "^1 spec, 0 failures$": 1,
+    "answer size": 0,
+    "has three digits": 0,
+    "^Failures:$": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

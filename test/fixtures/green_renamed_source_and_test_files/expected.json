@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 40,
+  "match_counts": {
+    "^4 specs, 0 failures$": 1,
+    "hiker": 0,
+    "^Failures:$": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

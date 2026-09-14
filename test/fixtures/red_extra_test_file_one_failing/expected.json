@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^2 specs, 1 failure$": 1,
+    "^Failures:$": 1,
+    "^[0-9]+\\) answer size has three digits$": 1,
+    "^ +Expected 2 to equal 3\\.$": 1,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

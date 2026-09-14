@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^1 spec, 1 failure$": 1,
+    "^Failures:$": 1,
+    "^[0-9]+\\) answer to life the universe and everything$": 1,
+    "^ +Expected 54 to equal 42\\.$": 1,
+    "^F$": 1,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

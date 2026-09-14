@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "SyntaxError: Unexpected token ';'"
+  ],
+  "match_counts": {
+    "^[0-9]+ specs?, [0-9]+ failures?": 0,
+    "^Started$": 0,
+    "^Failures:$": 0
+  },
+  "truncated": false
+}

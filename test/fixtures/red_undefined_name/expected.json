@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^1 spec, 1 failure$": 1,
+    "^Failures:$": 1,
+    "^ +ReferenceError: ansewr is not defined$": 1,
+    "^ +Expected ": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

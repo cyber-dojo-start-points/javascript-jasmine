@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 40,
+  "match_counts": {
+    "^answer was called$": 1,
+    "^1 spec, 0 failures$": 1,
+    "^Failures:$": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

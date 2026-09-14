@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^No specs found$": 1,
+    "^Incomplete: No specs found$": 1,
+    "^Started$": 1,
+    "^[0-9]+ specs?, [0-9]+ failures?": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

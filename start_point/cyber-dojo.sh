@@ -14,5 +14,5 @@ ln -s /etc/jasmine/node_modules ${CYBER_DOJO_SANDBOX}/node_modules
 
 # Calling [npm run ...] is sloooow so we don't to that.
 
-/etc/jasmine/node_modules/.bin/eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js
+/etc/jasmine/node_modules/.bin/eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.mjs /**/*.js
 /etc/jasmine/node_modules/.bin/nyc /etc/jasmine/node_modules/.bin/jasmine JASMINE_CONFIG_PATH="${CYBER_DOJO_SANDBOX}/jasmine.json"
