@@ -1,14 +1,14 @@
 {
-  "display_name": "JavaScript 26.13.0, Jasmine 7.0.0",
+  "display_name": "JavaScript 26.13.1, Jasmine 7.0.0",
   "language": [
     "JavaScript",
-    "26.13.0"
+    "26.13.1"
   ],
   "test_framework": [
     "Jasmine",
     "7.0.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jasmine:3adcf36@sha256:df6a13ae54e56fe0bc18cd0d82c342c3bc1fbf5c3eb286540b03bb96f35fdcfa",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_jasmine:f5a5ed5@sha256:d3a5b9bc9baadb2c6f279b42d367a629cc4d29cc8943d739646aa33aa0a90961",
   "visible_filenames": [
     "hiker-spec.js",
     "hiker.js",
